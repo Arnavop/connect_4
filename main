@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "New JSNB",
+    "language_info": {
+      "name": "JavaScipt",
+      "version": "8.0"
+    }
+  },
+  "jsnbversion": "v0.1",
+  "cells": [
+    {
+      "code": "//>md\n# Connect Four Game in JavaScript with Voice Control\n### Overview\nThis is a browser-based Connect Four game controlled via voice commands. It uses JavaScript to manage the game logic, and the Web Speech API for capturing and interpreting voice commands, providing a hands-free game experience.\n<br/>\n<br/>\n### Project Setup\nHTML: Sets up the game board and any on-screen instructions.\nCSS: Styles the game grid and tokens.\nJavaScript: Manages game logic, voice recognition, and UI updates.\n<br/>\n<br/>\n### How to Play\nPlayers speak commands to place their pieces in one of the columns on a 7x6 Connect Four board. The objective is to be the first to connect four discs in a row, either horizontally, vertically, or diagonally.\n\n",
+      "status": "[3]<br><span style=\"font-size:8px\">0ms<span></span></span>",
+      "output": "<h1>Connect Four Game in JavaScript with Voice Control</h1>\n<h3>Overview</h3>\n<p>This is a browser-based Connect Four game controlled via voice commands. It uses JavaScript to manage the game logic, and the Web Speech API for capturing and interpreting voice commands, providing a hands-free game experience.\n<br>\n<br></p>\n<h3>Project Setup</h3>\n<p>HTML: Sets up the game board and any on-screen instructions.\nCSS: Styles the game grid and tokens.\nJavaScript: Manages game logic, voice recognition, and UI updates.\n<br>\n<br></p>\n<h3>How to Play</h3>\n<p>Players speak commands to place their pieces in one of the columns on a 7x6 Connect Four board. The objective is to be the first to connect four discs in a row, either horizontally, vertically, or diagonally.</p>\n <br>",
+      "type": "code"
+    }
+  ],
+  "source": "https://github.com/gopi-suvanam/jsnb",
+  "run_on_load": false
+}
